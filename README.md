@@ -197,10 +197,6 @@ The end-to-end behavior (transfer, corrupt-chunk recovery, killing a peer mid-do
 P2PNode.java   the whole project: protocol, CRC-32, crypto, discovery, web server and interface
 ```
 
-## Acknowledgments
-
-Built with assistance from Claude (Anthropic).
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
