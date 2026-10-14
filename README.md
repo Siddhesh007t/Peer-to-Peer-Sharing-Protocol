@@ -4,7 +4,7 @@ A decentralized, encrypted file-sharing app written in Java. There is no central
 
 Each chunk is checked with a **CRC-32 implemented from scratch**, the finished file is checked again with CRC-32 and SHA-256, and a damaged or dropped peer is handled by fetching the chunk from someone else.
 
-![Peer share web interface](docs/screenshot.png)
+![Peer share web interface](docs/screenshot1.png)
 
 ## Features
 
